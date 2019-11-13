@@ -1,4 +1,4 @@
-# palovina-sassy-version
+# mysassybase
 art 258 exercise
 
-[view Demo](https://miyukings.github.io/palovina-sassy-version/)
+[view Demo](https://miyukings.github.io/mybase)
