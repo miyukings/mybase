@@ -54,14 +54,14 @@ h1, h2, h3 {
     font-size: 2em;
     text-align: center;
     line-height: 1;
-    //text-transform: uppercase;
+   
     letter-spacing: .05em;
   }
   .sectionhead:after {
     display: block;
     content:"";
     width: 50px;
-    margin: 1em auto 6em auto;
+    margin: 2em auto;
   }
 
   .meta {
@@ -78,8 +78,6 @@ h1, h2, h3 {
   }
 
   .subhead {
-      //color: rgb(151, 151, 16);
-      //font-family: $heading-fontfamily;
       margin-bottom: 1em;
   }
 
